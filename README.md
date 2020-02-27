@@ -12,3 +12,5 @@ https://www.moma.org/collection/works?locale=en&utf8=%E2%9C%93&q=farnsworth&clas
 https://www.loc.gov/resource/hhh.il0323.sheet?st=gallery
 
 For more historical information of this house, see https://en.wikipedia.org/wiki/Farnsworth_House
+
+![Farnsworth House FreeCAD Model](https://github.com/bitacovir/Farnsworth-House-3D/blob/master/Images/FreeCAD_XBIqclGE9y.png)
