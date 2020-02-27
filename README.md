@@ -1,2 +1,8 @@
 # Farnsworth-House-3D
-A full FreeCAD 3D model of the Farnsworth House designed by Ludwig Mies van der Rohe
+A full FreeCAD 3D model of the Farnsworth House designed and built by Ludwig Mies van der Rohe from 1946 to 1951.
+
+This Model was create using the free and open source software FreeCAD. You can download it from https://www.freecadweb.org/
+My intention was to provide a complete and accessible 3D model of this iconic architectural work. For this reason I did not use other CAD files in this model, but rather I crated this model from scratch using as references the original documentation from the following sources:  
+http://www.columbia.edu/cu/gsapp/BT/GATEWAY/FARNSWTH/farnswth.html
+https://www.moma.org/collection/works?locale=en&utf8=%E2%9C%93&q=farnsworth&classifications=any&date_begin=Pre-1850&date_end=2020&with_images=1&page=2&direction=fwd
+https://www.loc.gov/resource/hhh.il0323.sheet?st=gallery
