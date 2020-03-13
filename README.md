@@ -3,7 +3,7 @@ A full FreeCAD 3D model of the Farnsworth House designed and built by Ludwig Mie
 
 This Model was created using the free and open source software FreeCAD. You can download it from https://www.freecadweb.org/
 
-My intention was to provide to the public a complete and accessible 3D model of this iconic architectural work (see License conditions). For this reason, I did not use other CAD files in this model, but rather I created this model from scratch using as references the original documentation from the following sources:  
+My intention was to provide a complete and accessible 3D model of this iconic architectural work (see License conditions) to the public. For this reason, I did not use other CAD files in this model, but rather I created this model from scratch using as references the original documentation from the following sources:  
 
 http://www.columbia.edu/cu/gsapp/BT/GATEWAY/FARNSWTH/farnswth.html
 
